@@ -2,14 +2,16 @@
 
 <p> I am Computer Science undergrad at @IIITSurat </br> I like to build software and learn new technologies. </p>
 
+- 🚴 Backend developer (Go)
 - 📱 Mobile App developer.
-- 🌱 I’m currently learning data structures and algorithms.
-- 👯 I’m looking to learn Java and Springboot.
-- 💬 Ask me about Flutter, Dart, Java, Firebase, Rest Api, Sql
+- 🌱 I’m currently learning backend development and data structures and algorithms.
+- 👯 I’m looking to learn Golang and Microservices.
+- 💬 Ask me about Flutter, Dart, Go, Java, Firebase, Rest Api, Sql
 
 <b>🛠️ Languages and Tools</b>
 
 ![Flutter](https://img.shields.io/badge/Flutter%20-222222.svg?&style=flat&logo=flutter&logoColor=2cb7f6)
+![Git](https://img.shields.io/badge/-Go-222222?style=flat&logo=go&logoColor=F05032)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-222222?style=flat&logo=android-studio)
@@ -22,6 +24,12 @@
 ![SQL](https://img.shields.io/badge/SQLite-222222?style=flat&logo=sqlite&logoColor=white)
 
 <b>💻 Featured Projects</b>
+
+<a href="https://github.com/prakash-cr7/order-management-go">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prakash-cr7&repo=order-management-go&theme=algolia" />
+</a>
+</br>
+</br>
 
 <a href="https://github.com/team-o7/solution-challenge">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=team-o7&repo=solution-challenge&theme=algolia" />
